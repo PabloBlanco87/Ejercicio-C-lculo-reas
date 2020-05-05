@@ -1,4 +1,4 @@
-# Ejercicio-C-lculo-reas
+# Ejercicio-Calculo-Areas
 Ejercicio para asignatura Programación A, Lenguaje C#:
 Tenemos un campo de 500 m2 y queremos cercarlo. El precio de cada metro de valla es de 15€. Antes de llegar el presupuesto, viene el vecino con la oferta de vendernos la parcela que linda con la nuestra.
 - Crea una función que permita al vecino introducir el número de metros que nos vende, y el precio que aporta.
